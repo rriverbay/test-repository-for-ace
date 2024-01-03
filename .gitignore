@@ -1,2 +1,6 @@
 # ignore local history file
 .history/
+# ignore push_command
+push_command
+# ignore key file
+jchen8ghkey*
